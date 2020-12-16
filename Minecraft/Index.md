@@ -2,11 +2,11 @@
 
 ## Intro
 
-​	Ceci est un projet de création de serveur Minecraft en mode créatif , les ressources cité sont celle qu'on glané au fur et mesure des différents live sur le stream, elles ne donc pas un axe a suivre au pied de la lettre, il s'agit plus d'un guide et un knowledge pour partir de zéro sans connaissances. 
+​	Ceci est un projet de création du serveur Minecraft en mode créatif, les ressources citées sont celles qu'ont glanées au fur et mesure des différents live sur le stream, elles ne donc pas un axe a suivre au pied de la lettre, il s'agit plus d'un guide et un Knowledge pour partir de zéro sans connaissances. 
 
 ## Infrastructure: 
 
-​	Pour notre besoin on est partie sur un serveur hébergé dont voici les différent prérequis qu'on a pris pour la version dev. 
+​	​	Pour notre besoin on est partie sur un serveur hébergé dont voici les différents prérequis qu'on a pris pour la version dev 	
 
 ### 	**OS :**  Ubuntu 
 
